@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "INA121PA")(type "KiCad")(uri "C:/Users/ericz/Downloads/LIB_INA121PA/INA121PA/KiCad/INA121PA.kicad_sym")(options "")(descr ""))
+)
