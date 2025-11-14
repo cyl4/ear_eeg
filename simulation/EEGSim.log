@@ -1,6 +1,6 @@
 LTspice 24.0.12 for Windows
 Circuit: * C:\Users\ericz\Documents\ear_eeg\simulation\EEGSim.asc
-Start Time: Wed Nov 12 17:58:38 2025
+Start Time: Fri Nov 14 01:18:21 2025
 solver = Normal
 Maximum thread count: 32
 tnom = 27
@@ -28,5 +28,5 @@ Gmin = 2.70769e-13
 Gmin = 0
 Gmin stepping succeeded in finding the operating point.
 
-Total elapsed time: 0.190 seconds.
+Total elapsed time: 0.472 seconds.
 
