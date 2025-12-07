@@ -1,0 +1,11 @@
+LTspice 24.0.12 for Windows
+Circuit: * C:\Users\ericz\Documents\ear_eeg\simulation\Twin T Notch Filter.asc
+Start Time: Wed Nov 26 18:42:31 2025
+solver = Normal
+Maximum thread count: 32
+tnom = 27
+temp = 27
+method = modified trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.121 seconds.
+
